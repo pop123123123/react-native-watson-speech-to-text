@@ -1,0 +1,18 @@
+{
+  "name": "react-native-watson-speech-to-text",
+  "version": "0.1.0",
+  "description": "A wrapper for Watson Speech To Text java API for android",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pop123123123/react-native-watson-speech-to-text.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Louis MOUHAT",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
